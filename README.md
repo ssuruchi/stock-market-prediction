@@ -1,5 +1,5 @@
 # stock-market-prediction
-**Stock Market Prediction** - An application for predicting and analysing stock trends.
+An ML based application for predicting and analysing stock trends.
 
 👋 **About This Project**<br>
 Stock Market Prediction and Analysis is a machine learning-driven web application designed for financial forecasting. It uses Keras for building a predictive deep learning model and Streamlit for the interactive user interface. 
