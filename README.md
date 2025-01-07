@@ -31,7 +31,7 @@ Dropout: A regularization technique used to prevent overfitting in the model.<br
 ![image](https://github.com/user-attachments/assets/6d3f4942-12a4-4327-9a09-24e4b8971b5d)
 ![image](https://github.com/user-attachments/assets/b1791143-a7db-4b6e-93cd-6c56a2f13e14)
 
-🎯 **My Learnings**
+🎯 **My Learnings**<br>
 LSTM Model: Successfully trained and deployed an LSTM model for stock price prediction, demonstrating deep learning capabilities.<br>
 Real-Time Interaction: Built an interactive web interface using Streamlit, making the app easy to use for any stock ticker.<br>
 Data Visualization: Provided insightful visualizations like Moving Averages and Predicted vs Actual Prices, aiding in stock market analysis.<br>
