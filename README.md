@@ -1,6 +1,4 @@
 # stock-market-prediction
-This project predicts the price of the stocks and visualizing the data.
-
 **Stock Market Prediction** - An application for predicting and analysing stock trends.
 
 👋 **About This Project**<br>
