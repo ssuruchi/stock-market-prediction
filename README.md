@@ -2,7 +2,7 @@
 An ML based application for predicting and analysing stock trends.
 
 👋 **About This Project**<br>
-Stock Market Prediction and Analysis is a machine learning-driven web application designed for financial forecasting. It uses Keras for building a predictive deep learning model and Streamlit for the interactive user interface. 
+Stock Market Prediction and Analysis is a machine learning-driven web application designed for financial forecasting. It uses Keras for building a predictive Deep Learning model and Streamlit for the interactive user interface. 
 
 🔑 **Key Features**<br>
 Historical Stock Data: The app visualizes stock data from 2007 to 2022, along with descriptive statistics.<br>
